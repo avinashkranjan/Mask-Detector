@@ -1,8 +1,11 @@
 # Face-Mask-Detector 😷
 
+`As declared by WHO the COVID-19 is going to remain around for about 2 years. So proper precautions are going to be necessary. This ML python based surveillance system detects if people/person are/is not wearing mask and follows them wherever reachable and plays beeping sound if a person is found without a mask.`
+
 ## Important Links: 🔗
 ### For Live Preview --> [YouTube]()
 ### Data Used For Training --> [DataSet](https://drive.google.com/drive/folders/1R0EDMoUlvmdTXCY2slUmpJ0i-5EuKuvH?usp=sharing)
+
 
 ## How You Run it Locally? 🤔
 
